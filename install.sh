@@ -22,6 +22,10 @@ link 'bash-dotfiles/inputrc' '.inputrc'
 
 link 'rails-templates' 'etc/rails-templates'
 
+link 'aliases' '.aliases'
+link 'environ' '.environ'
+link 'functions' '.functions'
+link 'profile' '.profile'
 link 'screenrc' '.screenrc'
 
 echo "\n-= Update $DOTFILES submodules. =-"
