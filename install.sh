@@ -19,7 +19,6 @@ link 'bash-dotfiles/bash_logout' '.bash_logout'
 link 'bash-dotfiles/bash_profile' '.bash_profile'
 link 'bash-dotfiles/bashrc' '.bashrc'
 link 'bash-dotfiles/inputrc' '.inputrc'
-link 'bash-dotfiles/prompt' '.prompt'
 
 link 'rails-templates' 'etc/rails-templates'
 
