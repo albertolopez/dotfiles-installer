@@ -1,3 +1,3 @@
 link(){
-  ln -sT $DOTFILES/$1 $HOME/$2
+  ln -sT $1 $2
 }
